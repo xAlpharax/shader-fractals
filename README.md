@@ -33,6 +33,23 @@ To run the program, execute the following command:
 ./julia
 ```
 
+## Keybindings
+
+Both programs have the following keybindings:
+
+- `c`: Change the color mode.
+- `i`: Invert the color mode gradient.
+- `q`: Quit the program.
+- `>`: Increase MaxIterations by 100.
+- `<`: Decrease MaxIterations by 100.
+
+Julia specific keybindings:
+
+- `r`: Increase Real part of the julia constant complex number.
+- `f`: Decrease Real part of the julia constant complex number.
+- `t`: Increase Imaginary part of the julia constant complex number.
+- `g`: Decrease Imaginary part of the julia constant complex number.
+
 ## Contributing
 
 I'm actively supporting FOSS collaboration, so, if you feel like you can help in any way, file an issue in the *Issues* tab or submit a Pull Request and I will go through it.
