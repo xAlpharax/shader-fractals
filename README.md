@@ -50,6 +50,22 @@ Julia specific keybindings:
 - `t`: Increase Imaginary part of the julia constant complex number.
 - `g`: Decrease Imaginary part of the julia constant complex number.
 
+## Cool stuff
+
+Mandelbrot Set Visuals:
+
+![image1](https://github.com/user-attachments/assets/000217e9-8f50-4a05-a64b-54bcd8689f73)
+
+![image2](https://github.com/user-attachments/assets/650dd352-4d70-4a29-998d-a8d54accf915)
+
+![image3](https://github.com/user-attachments/assets/57bf2319-8a70-4770-96e7-f011b2bedf02)
+
+Julia Set Visuals:
+
+![image4](https://github.com/user-attachments/assets/e8294a9f-1e9f-4bb8-9eb4-dcbafe712abb)
+
+![image5](https://github.com/user-attachments/assets/bc630b22-ee00-42a1-bcaa-6501df514f46)
+
 ## Contributing
 
 I'm actively supporting FOSS collaboration, so, if you feel like you can help in any way, file an issue in the *Issues* tab or submit a Pull Request and I will go through it.
